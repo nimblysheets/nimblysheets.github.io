@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Nimbly Sheets">
+  <rect width="512" height="512" rx="64" fill="#071c7c"/>
+  <rect x="48" y="48" width="416" height="416" rx="18" fill="none" stroke="#c9ff00" stroke-width="28"/>
+  <path d="M132 374V138h58l132 154V138h58v236h-58L190 220v154z" fill="#c9ff00"/>
+</svg>
