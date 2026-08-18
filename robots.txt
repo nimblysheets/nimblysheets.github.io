@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nimblysheets.github.io/sitemap.xml
